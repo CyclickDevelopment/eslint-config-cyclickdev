@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-frontier",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "ESLint rules for FS development",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,15 @@
     "url": "https://github.com/petewasher/eslint-config-fs/issues"
   },
   "homepage": "https://github.com/petewasher/eslint-config-fs#readme",
+  "dependencies": {
+    "eslint": "^4.10.0",
+    "eslint-config-hapi": "^10.0.0",
+    "eslint-plugin-hapi": "^4.0.0",
+    "eslint-plugin-import": "^2.3.0",
+    "eslint-plugin-node": "^5.0.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
   "peerDependencies": {
     "eslint": "^4.10.0",
     "eslint-config-hapi": "^10.0.0",
