@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-fs",
+  "name": "eslint-config-frontier",
   "version": "0.1.0",
   "description": "ESLint rules for FS development",
   "main": "index.js",
