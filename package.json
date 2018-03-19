@@ -1,25 +1,25 @@
 {
-  "name": "eslint-config-frontier",
+  "name": "eslint-config-cyclickdev",
   "version": "0.1.1",
-  "description": "ESLint rules for FS development",
+  "description": "ESLint rules for Cyclick Development NodeJS development",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/petewasher/eslint-config-fs.git"
+    "url": "git+https://github.com/petewasher/eslint-config-cyclickdev.git"
   },
   "keywords": [
     "eslint",
     "eslintconfig"
   ],
-  "author": "Pete Washer",
+  "author": "Pete Washer (Cyclick Dev)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/petewasher/eslint-config-fs/issues"
+    "url": "https://github.com/petewasher/eslint-config-cyclickdev/issues"
   },
-  "homepage": "https://github.com/petewasher/eslint-config-fs#readme",
+  "homepage": "https://github.com/CyclickDevelopment/eslint-config-cyclickdev",
   "dependencies": {
     "eslint": "^4.10.0",
     "eslint-config-hapi": "^10.0.0",
